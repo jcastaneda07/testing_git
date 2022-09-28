@@ -3,6 +3,4 @@ this is a example
 and this is a changed made
 
 
-this i a changed in line 6
-
-this is a changed in line 8
+changed in a checkout
